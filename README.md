@@ -7,16 +7,24 @@ Colección de requests (POSTMAN)
 ENDPOINTS
 
 GET /register
-https://ibb.co/TtcDxXG
+
+![Get-register](https://user-images.githubusercontent.com/72801911/111662240-851a6d80-87ee-11eb-928d-d57f124c6d00.png)
+
 
 POST /register
-https://ibb.co/VHv6Mbr
+![Post-register](https://user-images.githubusercontent.com/72801911/111662453-b1ce8500-87ee-11eb-88b1-2c4d526d34b5.png)
+
 
 GET /register/:id_registro
-https://ibb.co/wK5jJCv
+
+![Get-register-2](https://user-images.githubusercontent.com/72801911/111662402-a418ff80-87ee-11eb-94f5-414c39c34b31.png)
+
 
 PUT /register/:id_registro
-https://ibb.co/HNCZ7tR
+
+![Put-register-7](https://user-images.githubusercontent.com/72801911/111662504-bc891a00-87ee-11eb-9b95-9f38eaf7e079.png)
+
 
 DELETE /register/:id_registro
-https://ibb.co/DwmGkKX
+
+![Delete-register-7](https://user-images.githubusercontent.com/72801911/111662552-c90d7280-87ee-11eb-91a4-c4b852ba59a3.png)
