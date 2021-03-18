@@ -29,3 +29,8 @@ PUT /register/:id_registro
 DELETE /register/:id_registro
 
 ![Delete-register-7](https://user-images.githubusercontent.com/72801911/111662552-c90d7280-87ee-11eb-91a4-c4b852ba59a3.png)
+
+
+GET /balanceSheet
+
+![Get-balanceSheet](https://user-images.githubusercontent.com/72801911/111673009-4c33c600-87f9-11eb-8289-174e0ae873a1.png)
