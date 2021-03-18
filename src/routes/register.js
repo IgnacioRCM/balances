@@ -3,7 +3,6 @@ const router = express.Router();
 
 const registerController = require('../controllers/registerController');
 
-//Rutas que se van a conectar con los controladores
 router.get('/register', registerController.list);
 router.post('/register', registerController.save);
 router.get('/register/:id_registro', registerController.search);
