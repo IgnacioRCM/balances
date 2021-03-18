@@ -12,6 +12,7 @@ GET /register
 
 
 POST /register
+
 ![Post-register](https://user-images.githubusercontent.com/72801911/111662453-b1ce8500-87ee-11eb-88b1-2c4d526d34b5.png)
 
 
