@@ -1,8 +1,9 @@
 # balances
 Backend de aplicación web de balances. Hecho con NodeJs, Express y MySql.
+(*todavía en desarrollo*)
 
 Colección de requests (POSTMAN)
-*proximamente
+(*próximamente*)
 
 ENDPOINTS
 
